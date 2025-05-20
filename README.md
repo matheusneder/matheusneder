@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusneder)
 
-- https://open.spotify.com/intl-pt/artist/2ZB9z4Bkj3iEiXHX3ApvSk?si=YEyOHTzOTjK1NK8zBbCSBg 
+- https://open.spotify.com/artist/2ZB9z4Bkj3iEiXHX3ApvSk 
 - https://instagram.com/nederm 
 - https://www.linkedin.com/in/matheus-neder-66b16a16/
