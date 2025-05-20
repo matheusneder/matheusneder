@@ -1,4 +1,10 @@
-## Hi there 👋
+<!-- ## Hi there 👋
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusneder) --
+
+- https://open.spotify.com/artist/2ZB9z4Bkj3iEiXHX3ApvSk 
+- https://instagram.com/nederm 
+- https://www.linkedin.com/in/matheus-neder-66b16a16/
 
 <!--
 **matheusneder/matheusneder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusneder)
