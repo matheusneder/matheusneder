@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 - https://open.spotify.com/artist/2ZB9z4Bkj3iEiXHX3ApvSk 
 - https://instagram.com/nederm 
 - https://www.linkedin.com/in/matheus-neder-66b16a16/
+
+[![Hits](https://hits.sh/github.com/matheusneder/hits.svg)](https://hits.sh/github.com/matheusneder/hits/)
