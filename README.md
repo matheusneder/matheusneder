@@ -39,6 +39,6 @@ I also play guitar. In 2011, I started posting my instrumental tracks online. En
 
 ## Find me
 
-- Website: [www.matheusneder.com](https://www.matheusneder.com)
-- LinkedIn: [linkedin.com/in/matheus-neder-66b16a16](https://linkedin.com/in/matheus-neder-66b16a16)
-- Spotify: [Matheus Neder](https://open.spotify.com/artist/2ZB9z4Bkj3iEiXHX3ApvSk)
+- Website: https://www.matheusneder.com
+- LinkedIn: https://linkedin.com/in/matheus-neder-66b16a16
+- Spotify: https://open.spotify.com/artist/2ZB9z4Bkj3iEiXHX3ApvSk
