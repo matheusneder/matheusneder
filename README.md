@@ -4,7 +4,7 @@ I'm a computer engineer from Brazil with more than 20 years of experience buildi
 
 A lot of that work has been about changing systems that can't stop. At Banco Mercantil and Itaú Unibanco, I designed architectures for moving mainframe systems to the cloud while the old and new applications ran side by side. At Olé Consignado (Santander Brasil), I led the solutions architecture team and helped roll out one of the first on-premises Kubernetes clusters in Belo Horizonte.
 
-You can read the full story at [www.matheusneder.com](https://www.matheusneder.com).
+You can read the full story at [matheusneder.com](https://www.matheusneder.com)
 
 ## What I do
 
