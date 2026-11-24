@@ -6,16 +6,12 @@ A lot of that work has been about changing systems that can't stop. At Banco Mer
 
 You can read the full story at [www.matheusneder.com](https://www.matheusneder.com).
 
-## What I'm working on
-
-At TOTVS, I designed and built a component that interprets and rewrites SQL at runtime, so applications written for Microsoft SQL Server can also run on Oracle Database and PostgreSQL. It uses AI for the complex statements that fixed translation rules don't cover well, and existing customizations keep their compatibility and performance. I also support TOTVS Cloud operations, working on availability, performance and incident response.
-
 ## What I do
 
 - **Solutions architecture and legacy modernization:** gradual migrations from mainframes to the cloud, hybrid architectures and integration between legacy and new systems.
 - **Distributed and event-driven systems:** asynchronous messaging and tracing operations across services that need to stay available.
 - **Cloud and Kubernetes:** containers, infrastructure as code and cloud-native applications that aren't tied to a single provider.
-- **AI applied to software engineering:** in products, like the SQL rewriting above, and in everyday development, with spec-driven development (SDD).
+- **AI applied to software engineering:** in products, such as runtime SQL rewriting, and in everyday development, with spec-driven development (SDD).
 - **Engineering practices:** DDD, TDD, code reviews and mentoring developers.
 
 ## Tools I use
